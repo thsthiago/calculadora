@@ -1,0 +1,21 @@
+let conta = document.querySelector('#calculadora input[name="conta"]');
+let resultado = document.querySelector('#calculadora input[name="resultado"]');
+let AC = document.querySelector('p[value="AC"]');
+let maiseMenos = document.querySelector('p[value="maisemenos"]');
+let barra = document.querySelector('p[value="barra"]');
+let apagar = document.querySelector('p[value="apagar"]');
+let vezes = document.querySelector('p[value="x"]');
+let mais = document.querySelector('p[value="mais"]');
+let menos = document.querySelector('p[value="menos"]');
+let nove = document.querySelector('p[value="9"]');
+let oito = document.querySelector('p[value="8"]');
+let sete = document.querySelector('p[value="7"]');
+let seis = document.querySelector('p[value="6"]');
+let cinco = document.querySelector('p[value="5"]');
+let quatro = document.querySelector('p[value="4"]');
+let tres = document.querySelector('p[value="3"]');
+let dois = document.querySelector('p[value="2"]');
+let um = document.querySelector('p[value="1"]');
+let zero = document.querySelector('p[value="0"]');
+let ponto = document.querySelector('.w100 p[value="ponto"]');
+
